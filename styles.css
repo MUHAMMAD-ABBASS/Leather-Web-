@@ -1,0 +1,50 @@
+.main{
+ background-color:white;
+}
+.navbar {
+    padding: 1em;
+}
+
+.navbar-brand{
+    padding-left: 3em !important;
+    font-style: italic;
+    font-weight:bold;
+    font-size: xx-large;
+    color: deeppink !important;
+}
+.nav-item{
+    text-align: center;
+    padding-left:  2em !important;
+    padding-right: 2em !important;
+    font-size: larger;
+}  
+.nav-item:active{
+    font-style: italic;
+}
+ 
+.dropdown-menu{
+    border: none;
+    text-align: center;
+}
+
+  hr{
+      background-color: aqua;
+      height:  2px ;
+}
+img{
+    height: 500px;
+}
+.container{
+  
+    text-align: justify;
+    margin-top: 2em;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    height: 50px;
+    padding-top: 1em;
+    margin-top: 100px;
+    margin-bottom:0px;
+}
