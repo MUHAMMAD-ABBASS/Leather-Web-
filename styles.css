@@ -49,12 +49,15 @@ hr{
 }
 section{
     margin-left: 16px;
+    padding: 1em;
+    border: solid red;
+    margin-bottom: 2em;
 }
 .card{
     margin-bottom: 2em;
 }
 .card > img{
-    height:275px ;
+    height:350px ;
 }
 
 footer{
