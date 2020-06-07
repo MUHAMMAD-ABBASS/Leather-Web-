@@ -9,6 +9,10 @@
     font-weight:bold;
     font-size: xx-large;
     color: deeppink !important;
+    float: left;
+}
+.navbar-toggler-item{
+    float: right;
 }
 .nav-item{
     text-align: center;
