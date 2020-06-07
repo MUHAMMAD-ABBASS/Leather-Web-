@@ -10,9 +10,11 @@
     font-size: xx-large;
     color: deeppink !important;
     float: left;
+    width: 65%;
 }
 .navbar-toggler-item{
     float: right;
+    width: 25;
 }
 .nav-item{
     text-align: center;
