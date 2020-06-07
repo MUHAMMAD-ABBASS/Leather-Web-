@@ -48,10 +48,11 @@ hr{
     
 }
 section{
-    margin-bottom: 2em;
     margin-left: 16px;
 }
-
+.card{
+    margin-bottom: 2em;
+}
 .card > img{
     height:275px ;
 }
