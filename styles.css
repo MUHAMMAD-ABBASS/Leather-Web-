@@ -1,8 +1,6 @@
-.main{
- background-color:white;
-}
 .navbar {
     padding: 1em;
+    width: 100%;
 }
 
 .navbar-brand{
@@ -18,20 +16,17 @@
     padding-right: 2em !important;
     font-size: larger;
 }  
-.nav-item:active{
-    font-style: italic;
-}
- 
+
 .dropdown-menu{
     border: none;
     text-align: center;
 }
 
-  hr{
+hr{
       background-color: aqua;
       height:  2px ;
 }
-img{
+.carousel-item > img{
     height: 500px;
 }
 .container{
@@ -39,12 +34,32 @@ img{
     text-align: justify;
     margin-top: 2em;
 }
+
+
+.full{
+   margin: 2em;
+    width: 100%;
+}
+.half{
+    width:50%;
+    display:inline-block;
+    text-align: justify;
+    margin: 1em;
+    
+}
+section{
+    margin-bottom: 2em;
+    margin-left: 16px;
+}
+
+.card > img{
+    height:275px ;
+}
+
 footer{
     background-color: black;
     text-align: center;
     color: white;
     height: 50px;
     padding-top: 1em;
-    margin-top: 100px;
-    margin-bottom:0px;
 }
