@@ -36,7 +36,6 @@ hr{
     height: 500px;
 }
 .container{
-  
     text-align: justify;
     margin-top: 2em;
 }
@@ -52,7 +51,6 @@ hr{
     display:inline-block;
     text-align: justify;
     margin: 10px;
-   
 }
 section{
     margin:8px;
@@ -66,11 +64,9 @@ section{
 }
 
 .btn:hover{
-
     background-color: orangered;
     color:white;
     border:none;
-
 }
 
 footer{
