@@ -65,6 +65,14 @@ section{
     height:350px ;
 }
 
+.btn:hover{
+
+    background-color: orangered;
+    color:white;
+    border:none;
+
+}
+
 footer{
     background-color: black;
     text-align: center;
