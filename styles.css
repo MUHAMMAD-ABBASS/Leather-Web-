@@ -27,7 +27,6 @@
     border: none;
     text-align: center;
 }
-
 hr{
       background-color: aqua;
       height:  2px ;
@@ -39,8 +38,6 @@ hr{
     text-align: justify;
     margin-top: 2em;
 }
-
-
 .full{
    margin-top: 2em;
     width: 100%;
@@ -62,7 +59,6 @@ section{
 .card > img{
     height:350px ;
 }
-
 .btn:hover{
     background-color: orangered;
     color:white;
