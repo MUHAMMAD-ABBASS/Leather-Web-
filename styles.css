@@ -27,13 +27,12 @@
     border: none;
     text-align: center;
 }
-hr{
-      background-color: aqua;
-      height:  2px ;
-}
+
 .carousel-item > img{
     height: 500px;
+    width: 100%;
 }
+
 .container{
     text-align: justify;
     margin-top: 2em;
@@ -48,16 +47,10 @@ section{
 .card > img{
     height:350px ;
 }
-.btn:hover{
-    background-color: orangered;
-    color:white;
-    border:none;
-}
-
 footer{
     background-color: black;
-    text-align: center;
     color: white;
-    height: 50px;
-    padding-top: 1em;
+    text-align: center;
+    width: 100%;
 }
+
