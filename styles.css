@@ -10,17 +10,17 @@
 }
 
 .navbar-brand{
-    padding-left: 1em;
+    
     font-style: italic;
     font-weight:bold;
     font-size: xx-large;
     color: deeppink !important;
     float: left;
-    width: 45%;
+    width: 35%;
 }
 .navbar-toggler-item{
     float: right;
-    width: 45%;
+    width: 30%;
 }
 .nav-item{
     text-align: center;
@@ -53,6 +53,24 @@ section{
 .card > img{
     height:350px ;
 }
+h4{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.contact-section{
+    background-color: black;
+    color: white;
+
+}
+.contact{
+    margin: 0px;
+    padding:1rem 2rem ;
+    text-align: center;
+}
+
+
+
 footer{
     background-color: black;
     color: white;
