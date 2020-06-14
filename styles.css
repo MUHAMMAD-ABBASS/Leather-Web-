@@ -1,3 +1,9 @@
+.container-fluid{
+    width:100%;
+    padding: 0px;
+    margin-right: 0px;
+}
+
 .navbar {
     padding: 1em;
     width: 100%;
@@ -51,6 +57,7 @@ footer{
     background-color: black;
     color: white;
     text-align: center;
-    width: 100%;
+   padding: 2rem;
+    margin-right: 0px;
 }
 
